@@ -1,0 +1,40 @@
+# Built artifacts
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+
+# Build folders
+bin/
+gen/
+out/
+build/
+.gradle/
+app/build/
+
+# Local configuration
+local.properties
+.bundle/
+vendor/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+atlassian-ide-plugin.xml
+.navigation/
+
+# Captures and logs
+captures/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Others
+.externalNativeBuild
+.cxx
+.kotlin
